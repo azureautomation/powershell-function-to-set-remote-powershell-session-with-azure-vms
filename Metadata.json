@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 4609,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-function-to-set-remote-powershell-session-with-azure-vms/master/AzureVM-RemotePS2.ps1",
+    "DownloadCount": 670,
+    "Id": "Powershell-function-to-set-6d5fbe66",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 494,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-2-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is the same code published here, but formatted as a function. This facilitates using this code repeatedly in other scripts.In Azure Microsoft has a large list of VM templates that can be used in the Gallery to provision VMs. These VMs come with few pre-configured features to",
+    "Title": "Powershell function to set remote powershell session with Azure VMs",
+    "UpdatedDate": "2016-2-15T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-function-to-set-remote-powershell-session-with-azure-vms",
+    "UserTags": "Azure, Powershell, Powershell remoting to Azure VM"
+}
